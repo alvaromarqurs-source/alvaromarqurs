@@ -11,6 +11,21 @@ Tenho interesse em tecnologias como **Python, C, HTML, CSS e JavaScript**, além
 Busco constantemente aprimorar meus conhecimentos e desenvolver novos projetos na área de tecnologia.
 
 ---
+## 📊 GitHub Stats
+
+<p align="left">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=alvaromarqurs-source&show_icons=true&theme=tokyonight&count_private=true"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromarqurs-source&layout=compact&theme=tokyonight"
+  />
+</p>
+
+---
 
 ## 💻 Tecnologias<p align="left">
 <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=c" /> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=js" /></p>
