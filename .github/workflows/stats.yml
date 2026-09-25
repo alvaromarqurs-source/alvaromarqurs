@@ -1,10 +1,9 @@
-
 name: Update README Stats
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 3 * * *"
-  workflow_dispatch:
 
 jobs:
   build:
@@ -21,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&count_private=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
