@@ -2,7 +2,7 @@
 
 ---
 
-### Sou estudante de Ciência da Computação!
+### 👋 Olá! Sou estudante de Ciência da Computação!
 
 Atualmente estou focando meus estudos em **programação, desenvolvimento de sistemas e Inteligência Artificial**.
 
@@ -10,10 +10,9 @@ Tenho interesse em tecnologias como **Python, C, HTML, CSS e JavaScript**, além
 
 Busco constantemente aprimorar meus conhecimentos e desenvolver novos projetos na área de tecnologia.
 
-
 ---
 
-## Linguagens:
+## 💻 Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
@@ -25,14 +24,24 @@ Busco constantemente aprimorar meus conhecimentos e desenvolver novos projetos n
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/alvaromarqurs-source">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaromarqurs-source&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromarqurs-source&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaromarqurs-source&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromarqurs-source&layout=compact&langs_count=8&theme=dracula"/>
+
 </div>
+
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-marquesm/)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/alvaro-marquesm/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
