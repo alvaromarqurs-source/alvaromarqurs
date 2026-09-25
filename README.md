@@ -18,11 +18,15 @@ Busco constantemente aprimorar meus conhecimentos e desenvolver novos projetos n
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=alvaromarqurs-source&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=alvaromarqurs-source&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromarqurs-source&layout=compact&langs_count=8&theme=dracula" height="180"/>
-
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromarqurs-source&layout=compact&langs_count=8&theme=dracula"
+  />
 </div>
 
 ---
