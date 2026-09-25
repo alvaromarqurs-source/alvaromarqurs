@@ -4,11 +4,12 @@
 
 ### Sou estudante de Ciência da Computação!
 
-Atualmente estou focando meus estudos em programação e desenvolvimento de sistemas, buscando aprimorar meus conhecimentos e desenvolver novos projetos.
+Atualmente estou focando meus estudos em **programação, desenvolvimento de sistemas e Inteligência Artificial**.
 
-Tenho interesse em tecnologias como **Python, C, HTML, CSS, JavaScript e Flask**.
+Tenho interesse em tecnologias como **Python, C, HTML, CSS e JavaScript**, além do desenvolvimento de soluções utilizando **IA**.
 
-Em breve vou atualizar este perfil com mais projetos e repositórios. 🚧
+Busco constantemente aprimorar meus conhecimentos e desenvolver novos projetos na área de tecnologia.
+
 
 ---
 
