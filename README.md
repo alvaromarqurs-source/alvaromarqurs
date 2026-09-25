@@ -12,7 +12,12 @@ Busco constantemente aprimorar meus conhecimentos e desenvolver novos projetos n
 
 ---
 
-## 💻 Tecnologias<p align="left"><img src="https://skillicons.dev/icons?i=python" /><img src="https://skillicons.dev/icons?i=c" /><img src="https://skillicons.dev/icons?i=html" /><img src="https://skillicons.dev/icons?i=css" /><img src="https://skillicons.dev/icons?i=js" /></p>
+## 💻 Tecnologias<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" /></p>
 
 ## 📊 GitHub Stats
 
