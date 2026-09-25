@@ -15,19 +15,6 @@ Busco constantemente aprimorar meus conhecimentos e desenvolver novos projetos n
 ## 💻 Tecnologias<p align="left">
 <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=c" /> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=js" /></p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=alvaromarqurs-source&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromarqurs-source&layout=compact&langs_count=8&theme=dracula"
-  />
-</div>
 
 ---
 
