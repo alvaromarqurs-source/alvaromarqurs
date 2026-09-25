@@ -2,7 +2,7 @@
 
 ---
 
-### 👋 Olá! Sou estudante de Ciência da Computação!
+Sou estudante de Ciência da Computação!
 
 Atualmente estou focando meus estudos em **programação, desenvolvimento de sistemas e Inteligência Artificial**.
 
@@ -12,7 +12,7 @@ Busco constantemente aprimorar meus conhecimentos e desenvolver novos projetos n
 
 ---
 
-## 💻 Linguagens e Tecnologias
+## 💻 Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
@@ -28,9 +28,9 @@ Busco constantemente aprimorar meus conhecimentos e desenvolver novos projetos n
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaromarqurs-source&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alvaromarqurs-source&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromarqurs-source&layout=compact&langs_count=8&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromarqurs-source&layout=compact&langs_count=8&theme=dracula" height="180"/>
 
 </div>
 
@@ -41,7 +41,7 @@ Busco constantemente aprimorar meus conhecimentos e desenvolver novos projetos n
 <div align="center">
 
 <a href="https://www.linkedin.com/in/alvaro-marquesm/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
