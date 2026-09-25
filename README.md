@@ -1,8 +1,8 @@
-# 👨‍💻 ALVARO MARQUES
+<h1 align="center">ALVARO MARQUES</h1>
 
 ---
 
-### Sou estudante de ADS na Cruzeiro do Sul Anália Franco!
+### Sou estudante de Ciência da Computação!
 
 Atualmente estou focando meus estudos em programação e desenvolvimento de sistemas, buscando aprimorar meus conhecimentos e desenvolver novos projetos.
 
