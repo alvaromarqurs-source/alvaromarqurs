@@ -12,17 +12,7 @@ Busco constantemente aprimorar meus conhecimentos e desenvolver novos projetos n
 
 ---
 
-## 💻 Tecnologias
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-</p>
-
----
+## 💻 Tecnologias<p align="left"><img src="https://skillicons.dev/icons?i=python" /><img src="https://skillicons.dev/icons?i=c" /><img src="https://skillicons.dev/icons?i=html" /><img src="https://skillicons.dev/icons?i=css" /><img src="https://skillicons.dev/icons?i=js" /></p>
 
 ## 📊 GitHub Stats
 
