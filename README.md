@@ -32,7 +32,7 @@ Busco constantemente aprimorar meus conhecimentos e desenvolver novos projetos n
 
 ## 📫 Contato
 
-<div align="center">
+<div>
 
 <a href="https://www.linkedin.com/in/alvaro-marquesm/">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
